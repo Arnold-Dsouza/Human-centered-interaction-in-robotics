@@ -46,6 +46,3 @@ This project implements a virtual agent inspired by the Pepper robot, designed t
 - Interact with the agent to search for student accommodation.
 - The agent will remember returning users and personalize responses.
 
-## License
-
-This project is licensed under the MIT License.
