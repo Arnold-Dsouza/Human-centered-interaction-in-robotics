@@ -1,4 +1,4 @@
-# Studentenwohnheim Virtual Agent
+# Studentenwohnheim Virtual Agent (Pepper Robot)
 
 This project implements a virtual agent inspired by the Pepper robot, designed to assist students in finding accommodation (Studentenwohnheim) using face recognition and conversational AI.
 
